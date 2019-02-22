@@ -14,9 +14,6 @@ Traveling this last week brught something to my attention again that I had quick
 
 <!--more-->
 
-* TOC
-{:toc}
-
 ## Idioracy and the American Way
 
 Looking back at the classic movie from the early 2000's I begin to wonder where exactly we went wrong. I partially blame the writers and directors for creating this intellectual masterpiece so elegantly highlighting the follies and fallacies of our ways. 
