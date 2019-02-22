@@ -16,7 +16,7 @@ Here are **Some Thoughts** towards that.
 
 We make up just me, plain old me out here on this box, hollering at all the people. Someone said it looks much like the void, I refuse to agree.
 
-https://just_a_warning.keybase.pub/
+[About me](https://just_a_warning.keybase.pub/)
 
 
 You can find me on social media here
