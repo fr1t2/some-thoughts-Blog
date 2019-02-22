@@ -31,15 +31,15 @@ theme_settings:
   github: "fr1t2"
   google_plus:
   instagram:
-  keybase:
+  keybase: "just_a_warning"
   linkedin:  # Full URL
   pinterest:
-  reddit:
+  reddit: "fr1t2"
   soundcloud:
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter: # "twitter username"
+  twitter: "just_a_warning" # "twitter username"
   vimeo:
   wordpress:
   youtube:
@@ -49,17 +49,17 @@ theme_settings:
     facebook: true
     twitter: true
     google_plus: true
-    tumblr:
-    pinterest:
+    tumblr: true
+    pinterest: true
     pocket:
     reddit: true
-    linkedin:
-    wordpress:
+    linkedin: true
+    wordpress: true
     email: true
 
   # Scripts / Features 
-  google_analytics: # Tracking ID, e.g. "UA-000000-01"
-  disqus_shortname:
+  google_analytics: UA-135027647-1 # Tracking ID, e.g. "UA-000000-01"
+  disqus_shortname: some-thoughts-com
   katex: true # Enable if using math markup
   
   special_page:
@@ -101,7 +101,7 @@ paginate_path: "blog/page:num"
 collections:
   portfolio:
     output: true
-    permalink: /:collection/:name
+    permalink: /:collection/:name.html
 
 
 # BUILD SETTINGS
