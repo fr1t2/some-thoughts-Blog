@@ -48,13 +48,13 @@ theme_settings:
   share_buttons:
     facebook: true
     twitter: true
-    google_plus: true
+    google_plus: 
     tumblr: true
     pinterest: true
     pocket:
     reddit: true
-    linkedin: true
-    wordpress: true
+    linkedin: 
+    wordpress: 
     email: true
 
   # Scripts / Features 
