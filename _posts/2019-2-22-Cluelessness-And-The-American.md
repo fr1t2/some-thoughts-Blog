@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Cluelessness And The American
-img: "assets/img/pexels/light.jpeg"
+feature-img: "assets/img/pexels/light.jpeg"
+thumbnail: "assets/img/thumbnails/light.jpeg"
 tags: [Politics, Rant, America, id10t, lulz, ]
 excerpt_separator: <!--more-->
 ---
