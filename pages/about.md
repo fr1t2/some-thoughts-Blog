@@ -16,9 +16,8 @@ Here are **Some Thoughts** towards that.
 
 We make up just me, plain old me out here on this box, hollering at all the people. Someone said it looks much like the void, I refuse to agree.
 
-Keybase.io/just-a-warning
+https://just_a_warning.keybase.pub/
 
-> aDD iMAGE HERE from keybase.io with links
 
 You can find me on social media here
 

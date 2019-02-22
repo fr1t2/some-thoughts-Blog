@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "/"
+baseurl: ""
 url: "https://st.fr1t2.com"
 title: Some-Thoughts # site's title
 description: "A place for thinking" # used by search engines
@@ -8,9 +8,9 @@ description: "A place for thinking" # used by search engines
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Some Thoughts # blog's title
+  title: Some-Thoughts # blog's title
   avatar: assets/img/triangle.svg
-  favicon: assets/favicon.ico
+  favicon: assets/favicon/favicon.ico
   gravatar: # Email MD5 hash
 
   # Header and footer text
