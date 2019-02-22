@@ -18,7 +18,7 @@ theme_settings:
   header_quote: A place to put my thoughts # Add the header here to be shown below the title main page
   header_feature_image: assets/img/pexels/rugged-mountain.jpeg
   footer_text: >
-    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
+    Powered by <a href="https://jekyllrb.com/">Jekyll</a> created by <a href="https://just_a_warning.keybase.pub">fr1t2</a>
 
   # Icons
   rss: true  # Make sure you created a feed.xml with feed.xml layout
