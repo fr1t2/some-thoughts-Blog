@@ -2,13 +2,13 @@
 layout: post
 title: Cluelessness And The American
 feature-img: "assets/img/pexels/lincon.jpeg"
+img: "assets/img/pexels/light.jpeg"
 thumbnail: "assets/img/thumbnails/lincon.jpeg"
 tags: [Politics, Rant, America, id10t, lulz, ]
 excerpt_separator: <!--more-->
 ---
 
 
-![image]({{ page.img | relative_url }})
 
 Traveling this last week brught something to my attention again that I had quickly forgotten, and have consistently avoided for a long time now. I cannot go on anymore without pointing some apparently underwhelming facts out to you all. **Americans are DUMB!** Listen I fall into this group with you all, and believe you me when I say I'm sorry.
 
@@ -29,5 +29,7 @@ Well I say **HELL NO!** That is no place I will let my kids play, and shame on y
 
 
 ## The Clues We Are Failing
+
+![image]({{ page.img | relative_url }})
 
 Looking around, I am sure you see them too. The long faces, devoid of happiness, whatever that is. The hungry mouths, sad with the understanding that there is no food. Agnostic are we who trudge through on our commute, clueless to the struggle any other human is under. We are too engulfed in a struggle, however this is somehow disconnected and separate from the struggle of anyone else.  
