@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cluelessness And The American
-img: "assets/img/portfolio/.png"
+feature-img: "assets/img/portfolio/hmm.jpeg"
 tags: [Politics, Rant, America, id10t, lulz, ]
 excerpt_separator: <!--more-->
 ---
@@ -9,16 +9,12 @@ excerpt_separator: <!--more-->
 
 ![image]({{ page.img | relative_url }})
 
-
-* TOC
-{:toc}
-
-
-![Dumb People]({{ "/assets/img/pexels/SOMETHING.jpeg" | relative_url }})
-
 Traveling this last week brught something to my attention again that I had quickly forgotten, and have consistently avoided for a long time now. I cannot go on anymore without pointing some apparently underwhelming facts out to you all. **Americans are DUMB!** Listen I fall into this group with you all, and believe you me when I say I'm sorry.
 
 <!--more-->
+
+* TOC
+{:toc}
 
 ## Idioracy and the American Way
 
