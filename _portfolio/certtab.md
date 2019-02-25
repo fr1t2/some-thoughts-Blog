@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Certtab
-feature-img: "assets/img/portfolio/certtab/certtab.png"
-img: "assets/img/portfolio/certtab/certtab.png"
+feature-img: "assets/img/portfolio/certtab/certtab.com.png"
+img: "assets/img/portfolio/certtab/certtab.com.png"
 date: 22 February 2019
 tags: [certtab, website, Web Development, 5it3]
 ---

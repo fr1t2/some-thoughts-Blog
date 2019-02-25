@@ -2,8 +2,8 @@
 layout: post
 title: epAdemyk
 feature-img: "assets/img/portfolio/epademyk/epademyk.png"
-img: "assets/img/portfolio/epAdemyk/AaronThought.png"
-date: 20 February 2015
+img: "assets/img/portfolio/epAdemyk/epademyk.png"
+date: 20 February 2019
 tags: [HipHop, Web Design, Portfolio]
 ---
 
