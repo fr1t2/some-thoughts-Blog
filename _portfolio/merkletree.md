@@ -2,7 +2,7 @@
 layout: post
 title: MerkleTree
 img: "assets/img/portfolio/merkletree/merkletree.us.png"
-feature-img: ""assets/img/portfolio/merkletree/merkletree.us.png""
+feature-img: "assets/img/portfolio/merkletree/merkletree.us.png"
 date: 21 February 2019
 tags: [5it3, Web Development, Business]
 ---
