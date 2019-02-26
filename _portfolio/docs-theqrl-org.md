@@ -1,8 +1,8 @@
 ---
 layout: post
 title: The QRL Documentation
-feature-img: "assets/img/portfolio/docs.theqrl.org.png"
-img: "assets/img/portfolio/docs.theqrl.org.png"
+feature-img: "assets/img/portfolio/qrl/docs.theqrl.org.png"
+img: "assets/img/portfolio/qrl/docs.theqrl.org.png"
 date: 22 February 2019
 tags: [Cryptocurrency, Blockchain, QRL, Portfolio, Web Development, ]
 ---
