@@ -2,7 +2,7 @@
 layout: post
 title: epAdemyk
 feature-img: "assets/img/portfolio/epademyk/epademyk.png"
-img: "assets/img/portfolio/epademyk/Final-epAdemykBlackWhite.png"
+img: "assets/img/portfolio/epademyk/Final-epAdemykWhiteBlack.png"
 date: 20 February 2019
 tags: [HipHop, Web Design, Portfolio]
 ---
