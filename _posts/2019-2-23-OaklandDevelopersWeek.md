@@ -1,20 +1,22 @@
 ---
 layout: post
 title: Developers Week 2019 - Oakland
-img: "assets/img/portfolio/toh.png"
-feature-img: assets/img/pexels/story.jpeg
+img: "assets/img/posts/devweek2019.jpeg"
+feature-img: "assets/img/posts/DeveloperWeek-Hero-2019.jpeg"
+thumbnail: "assets/img/thumbnails/DeveloperWeek-Hero-2019.jpeg"
 tags: [Conference, Developers, Technology, Blockchain, QRL]
 excerpt_separator: <!--more-->
 ---
 
 
-![image]({{ page.img | relative_url }})
 
 
 
 
 
 I work part time developing the documentation for a cryptocurrency project and was asked to attend the Developers Week 2019 conference and expo held in Oakland, CA the week of Feb 19th. Road Trip! 
+
+![image]({{ page.img | relative_url }})
 
 <!--more-->
 
