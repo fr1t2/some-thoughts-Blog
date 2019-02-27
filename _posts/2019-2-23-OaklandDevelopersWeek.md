@@ -17,9 +17,9 @@ I work part time developing the documentation for a cryptocurrency project and w
 
 ![image]({{ page.img | relative_url }})
 
-<!--more-->
 
 Initially I was a little surprised that the team wanted me to go to this. After all I am not a "Developer" in the same way as out core programmers and developers are. While I do develop the documentation and maintain a few web sites, I wouldn't go so far as classifying my self in this group. None the less, here I am in Oakland at one of the largest conferences in the space. 
+<!--more-->
 
 I was accompanied by our marketing guy, Adam, who had an hour speaking spot the first day of the conference. Adam is by far more knowledgeable in the cryptocurrency world than I, and a good public speaker. I was glad to hear I was not the only team member heading to the conference. While Adam is more well versed in the crypto space, he is in no way a developer and had some reservations speaking at such a technical event.
 
@@ -40,12 +40,17 @@ One thing I will say is that the majority of presenters and developers seemed to
 
 ## The City
 
-Oakland is a very diverse town. There are all walks of life co-existing in mostly equilibrium. There are outliers and exceptions to the rule but from my experiance. The town is charged like a powder keg though, and at the slightest drop of injustice the people will take to the streeet and protest that injustice. While I was in town I witnessed the local teachers union marching for a fair wage. The striking thing to me was the example of correct civil disobedience that citizens were showing to the future genertation. 
-
+Oakland is a very... interesting town. There are all walks of life co-existing mostly in equilibrium, and the fair weather seems to fall right in line. I visited to the same part of town about 10 years ago for work and I was surprised at the amount of improvements and construction that the town was undergoing. Its funny when you end up in the same place multiple times so far from home in what seems to be random happenstance. 
 
 ![Oakland Photo]({{ "/assets/img/posts/oakland.jpeg" | relative_url }})
 
 
+Unfortunately we were late at getting this trip booked and had to settle for accommodations outside of the conference. One thing I will take away from this, the rating system varies wildly from city to city. A three star in one town may be nice, while a complete dump in another. I was stuck with the later.
+
+There are outliers and exceptions to the rule but from my experience. The town is charged like a powder keg though, and at the slightest drop of injustice the people will take to the street and protest that injustice. While I was in town I witnessed the local teachers union marching for a fair wage. The striking thing to me was the example of correct civil disobedience that citizens were showing to the future generation. 
 
 
-Details below...
+
+
+
+
