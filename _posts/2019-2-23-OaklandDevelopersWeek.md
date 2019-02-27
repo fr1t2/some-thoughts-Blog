@@ -2,8 +2,8 @@
 layout: post
 title: Developers Week 2019 - Oakland
 img: "assets/img/posts/devweek2019.jpeg"
-feature-img: "assets/img/posts/DeveloperWeek-Hero-2019.jpeg"
-thumbnail: "assets/img/thumbnails/DeveloperWeek-Hero-2019.jpeg"
+feature-img: "assets/img/posts/devweek.jpeg"
+thumbnail: "assets/img/thumbnails/devweekLarge.jpeg"
 tags: [Conference, Developers, Technology, Blockchain, QRL]
 excerpt_separator: <!--more-->
 ---
