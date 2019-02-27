@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Developers Week 2019 - Oakland
+title: Developer Week 2019
 img: "assets/img/posts/devweek2019.jpeg"
 thumbnail: "assets/img/thumbnails/devweekLarge.jpeg"
 tags: [Conference, Developers, Technology, Blockchain, QRL]
@@ -19,7 +19,7 @@ I work part time developing the documentation for a cryptocurrency project and w
 
 <!--more-->
 
-Initially I was a little surprise that the team wanted me to go to this. After all I am not a "Developer" in the same way as out core programmers and developers are. While I do develop the documentation and maintain a few web sites, I wouldn't go so far as classifying my self in this group. None the less, here I am in Oakland at one of the largest conferences in the space. 
+Initially I was a little surprised that the team wanted me to go to this. After all I am not a "Developer" in the same way as out core programmers and developers are. While I do develop the documentation and maintain a few web sites, I wouldn't go so far as classifying my self in this group. None the less, here I am in Oakland at one of the largest conferences in the space. 
 
 I was accompanied by our marketing guy, Adam, who had an hour speaking spot the first day of the conference. Adam is by far more knowledgeable in the cryptocurrency world than I, and a good public speaker. I was glad to hear I was not the only team member heading to the conference. While Adam is more well versed in the crypto space, he is in no way a developer and had some reservations speaking at such a technical event.
 
@@ -33,10 +33,17 @@ While true that most of the functions of a blockchain can also be distributed vi
 
 ## The Conference
 
-Fortunately for us the conference was well put together and professional. This has not been the case at a few of the recent events the team has attended. The venue was well laid out, and the 
+Fortunately for us the conference was well put together and professional. This has not been the case at a few of the recent events the team has attended. The venue was well laid out, and the content presented on was great. I was supried and relieved to find that most of the technology I have not heard of, or not in enough detail to know much about it. The conference left me with more questions and research to do, and this is a good thing. 
+
+One thing I will say is that the majority of presenters and developers seemed to be regurgitating systems that were proprietary to leverage the usability and increase time to production, at a cost. While I am a fan of industry providing easier ways to accomplish things, I don't think it should come at the detriment of the programmer not knowing what the system is up to completely. This has in the past lead to catastrophes where unknown consequences or upstream bugs can render production systems inoperable. I still require full understanding, to allowable limits to jump into a system without question. (Looking at you Docker)
 
 
-![Oakland Photo]({{ "/assets/img/pexels/SOMETHING.jpeg" | relative_url }})
+## The City
+
+Oakland is a very diverse town. There are all walks of life co-existing in mostly equilibrium. There are outliers and exceptions to the rule but from my experiance. The town is charged like a powder keg though, and at the slightest drop of injustice the people will take to the streeet and protest that injustice. While I was in town I witnessed the local teachers union marching for a fair wage. The striking thing to me was the example of correct civil disobedience that citizens were showing to the future genertation. 
+
+
+![Oakland Photo]({{ "/assets/img/posts/oakland.jpeg" | relative_url }})
 
 
 
