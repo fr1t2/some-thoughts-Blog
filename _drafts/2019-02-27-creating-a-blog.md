@@ -1,14 +1,14 @@
 ---
 layout: post
 title: Creating a Blog
-hide_title: true                                  # Hide the title when displaying the post, but shown in lists of posts
+hide_title: false                                  # Hide the title when displaying the post, but shown in lists of posts
 feature-img: assets/img/pexels/story.jpeg
 tags: [Web Development, Some-thoughts, jekyll, Portfolio]
 excerpt_separator: <!--more-->
 bootstrap: true                                   # Add bootstrap to the page
 ---
 
-# Creating A Blog
+
 
 I purchased this domain about a year ago with high ambitions. Instead of progressing into the development here, life got in the way. I now have a son, a new day job and far less time to build things. That being said it was abut time to put something here, I'm paying for it after all. 
 
