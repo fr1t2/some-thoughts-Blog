@@ -8,6 +8,9 @@ excerpt_separator: <!--more-->
 
 # Creating A Blog
 
+
+
+
 I purchased this domain about a year ago with high ambitions. Instead of progressing into the development here, life got in the way. I now have a son, a new day job and far less time to build things. That being said it was abut time to put something here, I'm paying for it after all. 
 
 <!--more-->
