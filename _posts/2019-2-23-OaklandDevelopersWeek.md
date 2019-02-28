@@ -8,11 +8,6 @@ excerpt_separator: <!--more-->
 ---
 
 
-
-
-
-
-
 I work part time developing the documentation for a cryptocurrency project and was asked to attend the Developers Week 2019 conference and expo held in Oakland, CA the week of Feb 19th. Road Trip! 
 
 ![image]({{ page.img | relative_url }})
