@@ -29,4 +29,10 @@ Well I say **HELL NO!** That is no place I will let my kids play, and shame on y
 
 ![image]({{ page.img | relative_url }})
 
-Looking around, I am sure you see them too. The long faces, devoid of happiness, whatever that is. The hungry mouths, sad with the understanding that there is no food. Agnostic are we who trudge through on our commute, clueless to the struggle any other human is under. We are too engulfed in a struggle, however this is somehow disconnected and separate from the struggle of anyone else.  
+Looking around, I am sure you see them too. The long faces, devoid of happiness, whatever that is. 
+
+The hungry mouths, sad with the understanding that there is no food. Agnostic are we who trudge through on our commute, clueless to the struggle any other human is under. We are too engulfed in a struggle, however this is somehow disconnected and separate from the struggle of anyone else. 
+
+When we fail to take care of our own, the height of civilization is reached. The tipping point is attained and the downfall begins. If we don'd activly stop this it will  consume everything we love and bring us back into the dark ages. 
+
+At some point this will lead to the outright demise of the human. The world will be saved.
